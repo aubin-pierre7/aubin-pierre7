@@ -1,4 +1,4 @@
-;';;;;# 💫 About Me
+';;;;# 💫 About Me
 🔭 I am currently a student at the University Institute of Technology (IUT) in Douala.<br><br>🌱 I am currently taking IBM courses on generative AI engineering and front-end development.<br><br>💼 I am available for freelance projects.<br><br>⚡ Fun fact: I enjoy sharing my knowledge and learning something new every day.
 
 
