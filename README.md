@@ -2,7 +2,7 @@
 🔭 I am currently a student at the University Institute of Technology (IUT) in Douala.<br><br>🌱 I am currently taking IBM courses on generative AI engineering and I'm working on several private projects.<br><br>💼 I am available for freelance projects.<br><br>⚡ Fun fact: I enjoy sharing my knowledge and learning something new every day.
 
 
-# 🌐Socials
+# 🌐Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CJe5xFv2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aubin-mabom-pierre-style-532664352?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0vW1SHVUTqmSGZsiWKTFeA%3D%3D)[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aubinp58) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Aubin_pierre7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aubinp58@gmail.com) 
 
 # 💻 Tech Stack:
